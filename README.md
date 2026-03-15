@@ -86,9 +86,9 @@ Spring Boot • REST API • Database Integration
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhinesh-usa\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhinesh-usa\&layout=compact)
 
 ---
 
@@ -103,9 +103,9 @@ We focus on clean API architecture and smooth frontend integration.
 
 💼 Open for freelance backend development projects
 
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: your-linkedin
+* GitHub: https://github.com/dhinesh-usa
+* Email: dhineshkarthick778@gmail.com
+* LinkedIn: [your-linkedin](https://www.linkedin.com/in/dhinesh-karthick-65384532b)
 
 ---
 
