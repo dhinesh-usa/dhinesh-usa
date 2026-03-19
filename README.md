@@ -82,13 +82,6 @@ Backend APIs for booking services with scheduling and user management.
 Tech Used:
 Spring Boot • REST API • Database Integration
 
----
-
-## 📊 GitHub Stats
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhinesh-usa\&layout=compact)
 
 ---
 
